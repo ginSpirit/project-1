@@ -1,2 +1,3 @@
-<b> problem: <\b>
-You are working as a cashier for a supermarket, and items are handed to you to be scanned one by one by the customer. You do not know how many items they have, but after the last item is scanned, the customers usually say, "done".
+problem:
+You are working as a cashier for a supermarket, and items are handed to you to be scanned one by one by the customer. 
+You do not know how many items they have, but after the last item is scanned, the customers usually say, "done".
